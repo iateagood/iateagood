@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iateagood
+- 👀 I’m interested in linux based applications
+- 🌱 I’m currently learning general coding
